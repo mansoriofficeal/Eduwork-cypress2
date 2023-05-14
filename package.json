@@ -1,0 +1,16 @@
+{
+  "name": "edupress",
+  "version": "1.0.0",
+  "description": "otomatis testing using cypress",
+  "main": "index.js",
+  "author": "agustomi",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.12.0",
+    "prettier": "^2.8.8"
+  },
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  }
+}
